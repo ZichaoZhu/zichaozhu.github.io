@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ZichaoZhu的主页 # the main title
+title: ZichaoZhu # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://zichaozhu.github.io/"
 
 github:
   username: github_username # change to your github username
@@ -220,8 +220,8 @@ exclude:
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
-    category: category
-    tag: tag
+    category: 目录
+    tag: 标签
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
