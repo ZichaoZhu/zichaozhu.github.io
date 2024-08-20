@@ -1,0 +1,7 @@
+site_name: 朱自超的网站
+
+theme:
+  name: material
+  
+nav:
+ - 首页: index.md 
