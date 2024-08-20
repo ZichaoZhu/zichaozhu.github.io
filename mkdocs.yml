@@ -5,3 +5,9 @@ theme:
   
 nav:
  - 首页: index.md 
+
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/ZichaoZhu'
