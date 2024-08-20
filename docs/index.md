@@ -1,14 +1,5 @@
-# Welcome to my blog!
-## Who I am?
-朱自超，zjuers
-
-## dsadjl
-dsad
-dsad
-asfd
-asd
-
-## jklgsd
-dsadm
-ion vcs
-nivxcnn
+# 欢迎来到我的博客！
+## 前言
+整个博客的创建真的是花了我好长的时间，创建成功后还是很开心的。
+<br>
+在这次的创建过程中，我充分体会到了**Edge**浏览器在开发层面的不足，以后搞开发的话还是使用**chrome**吧，真的好用。
