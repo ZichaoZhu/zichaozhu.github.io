@@ -4,10 +4,24 @@ site_author: 朱自超
 
 nav:
   - 首页: index.md
+
   - 尝试: 
     - test1: blog/尝试/test1.md
+
   - CTF:
     - 首页: blog/CTF/index.md
+
+  - 计组:
+    - 首页: blog/计组/index.md
+  
+  - ADS:
+    - 首页: blog/ADS/index.md
+  
+  - 概统:
+    - 首页: blog/概统/index.md
+  
+  - 大物乙2:
+    - 首页: blog/大物乙2/index.md
 
 
 
