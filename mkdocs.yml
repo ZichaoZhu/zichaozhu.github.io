@@ -2,7 +2,7 @@ site_name: 朱自超的笔记本
 site_author: 朱自超
 
 nav:
- - 首页: blog/index.md
+ - 首页: index.md
  - 尝试: blog/test1.md
 
 theme:
