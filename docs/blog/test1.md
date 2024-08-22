@@ -13,4 +13,4 @@ int main(){
 
 接下来尝试图片
 
-<img src="../assets/image-20240822140216396.png" alt="image-20240822140216396" style="zoom:60%;" />
+<img src="../assets/image-20240822140216396.png" alt="google页面" style="zoom:60%;display:block;margin:0 auto;" >
