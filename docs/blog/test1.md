@@ -13,4 +13,4 @@ int main(){
 
 接下来尝试图片
 
-![image-20240822140216396](./assets/image-20240822140216396.png)
+<img src="../assets/image-20240822140216396.png" alt="image-20240822140216396" style="zoom:60%;" />
