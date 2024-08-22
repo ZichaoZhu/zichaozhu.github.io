@@ -1,7 +1,32 @@
 site_name: 朱自超的笔记本
+site_author: 朱自超
+
 
 theme:
   name: material
+  palette:
+    - scheme: default # 日间模式
+      primary: teal # 上方的
+      accent: cyan # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: 切换至夜间模式 # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: black 
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+  features: 
+    - navigation.instant   #- header.autohide  #自动隐藏
+    - navigation.tracking   #地址栏中的 URL 将自动更新为在目录中突出显示的活动锚点
+    - navigation.tabs   #顶级部分将呈现在上面视口标题下方的菜单层中，但在移动设备上保持原样
+    - navigation.top   # 返回顶部的按钮 在上滑时出现
+    - search.suggest   # 搜索输入一些字母时推荐补全整个单词
+    - search.highlight   # 搜索出的文章关键词加入高亮
+    - navigation.expand   # 打开Tab时左侧目录全部展开
+    - search.share   #搜索分享按钮
+    
   
 nav:
  - 首页: index.md 
