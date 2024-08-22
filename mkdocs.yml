@@ -1,6 +1,9 @@
 site_name: 朱自超的笔记本
 site_author: 朱自超
 
+nav:
+ - 首页: blog\index.md
+ - 尝试: blog/test1.md
 
 theme:
   name: material
@@ -26,7 +29,37 @@ theme:
     - search.highlight   # 搜索出的文章关键词加入高亮
     - navigation.expand   # 打开Tab时左侧目录全部展开
     - search.share   #搜索分享按钮
-    
-  
-nav:
- - 首页: index.md 
+
+extra:
+  generator: false  #删除页脚显示“使用 MkDocs 材料制造”
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ZichaoZhu
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/439740241?spm_id_from=333.1007.0.0
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<1606783699@qq.com> #联系方式
+
+markdown_extensions:
+  - abbr
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - md_in_html
+  - pymdownx.arithmatex:  # latex支持
+      generic: true
+  - toc:
+      permalink: true # 固定标题位置为当前位置
+  - pymdownx.highlight: # 代码块高亮
+      anchor_linenums: true
+      linenums: true # 显示行号
+      auto_title: true # 显示编程语言名称
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences # 代码块高亮插件
+  - meta # 支持Markdown文件上方自定义标题标签等
