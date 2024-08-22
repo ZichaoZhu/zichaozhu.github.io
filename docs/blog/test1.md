@@ -9,3 +9,8 @@ int main(){
 }
 ```
 
+## 图片尝试
+
+接下来尝试图片
+
+<img src="./assets/image-20240822134519297.png" alt="image-20240822134519297" style="zoom:80%;" />
