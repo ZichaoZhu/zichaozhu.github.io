@@ -23,6 +23,13 @@ nav:
   - 大物乙2:
     - 首页: blog/大物乙2/index.md
 
+  - Verilog 学习: 
+    - 首页: blog/verilog/index.md
+    - 快速开始:
+      - 1-Step one: blog/verilog/快速开始/1-Step one.md
+      - 2-Zero: blog/verilog/快速开始/2-Zero.md
+    - 基础:
+      - 1-Wire: blog/verilog/Basic/1-wire.md
 
 
 theme:
