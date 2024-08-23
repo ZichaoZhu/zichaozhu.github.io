@@ -1,4 +1,4 @@
-# Wire
+# Simple wire
 
 ## 什么是 wire ?
 
@@ -7,3 +7,24 @@
 * wire 具有方向性，值从右到左
 * continuous assignment 指的是像 **assign left_side = right_side;** 的赋值
 * continuous assignment 每时每刻都在作用，左边的值随着右边的值改变
+
+> In addition to continuous assignments, Verilog has three other assignment types that are used in procedural blocks, **two of which are synthesizable**. We won't be using them until we start using procedural blocks.
+
+## Problem statement
+
+>  Your task is to create a wire (in green) by adding an `assign` statement to connect `in` to `out`. 
+
+```verilog
+module top_module( input in, output out );
+
+endmodule
+```
+
+## Solution
+
+```verilog
+module top_module( input in, output out );
+	assign out=in;
+endmodule
+```
+
