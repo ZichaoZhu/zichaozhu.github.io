@@ -32,8 +32,8 @@ nav:
       - 1-Simple wire: blog/verilog/Basic/1-Simple wire.md
       - 2-Wire4: blog/verilog/Basic/2-Wire4.md
       - 3-Not gate: blog/verilog/Basic/3-Not gate.md
-
       
+
 
 theme:
   name: material
