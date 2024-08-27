@@ -34,6 +34,11 @@ nav:
       - 3-Not gate: blog/verilog/Basic/3-Not gate.md
       - 4-And gate: blog/verilog/Basic/4-And gate.md
       - 5-Nor gate: blog/verilog/Basic/5-Nor gate.md
+      - 6-Xnor gate: blog/verilog/Basic/6-Xnor gate.md
+      - 7-Declaring wires: blog/verilog/Basic/7-Declaring wires.md
+      - 8-7458 chip: blog/verilog/Basic/8-7458 chip.md
+
+      
 
 theme:
   name: material
