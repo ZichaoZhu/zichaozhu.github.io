@@ -100,6 +100,6 @@ markdown_extensions:
   - meta # 支持Markdown文件上方自定义标题标签等
 
 extra_javascript:
-  - javascripts/config.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/config.js # latex支持
+  - https://polyfill.io/v3/polyfill.min.js?features=es6 # latex支持
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # latex支持
