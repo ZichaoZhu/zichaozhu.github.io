@@ -2,50 +2,6 @@ site_name: 朱自超的笔记本
 site_author: 朱自超
 
 
-nav:
-  - 首页: index.md
-
-  - 尝试: 
-    - test1: blog/尝试/test1.md
-
-  - CTF:
-    - 首页: blog/CTF/index.md
-
-  - 计组:
-    - 首页: blog/计组/index.md
-  
-  - ADS:
-    - 首页: blog/ADS/index.md
-  
-  - 概统:
-    - 首页: blog/概统/index.md
-  
-  - 大物乙2:
-    - 首页: blog/大物乙2/index.md
-
-  - Verilog 学习: 
-    - 首页: blog/verilog/index.md
-
-    - 快速开始:
-      - 1-Step one: blog/verilog/快速开始/1-Step one.md
-      - 2-Zero: blog/verilog/快速开始/2-Zero.md
-
-    - 语法:
-      - 基础:
-        - 1-Simple wire: blog/verilog/verilog language/Basic/1-Simple wire.md
-        - 2-Wire4: blog/verilog/verilog language/Basic/2-Wire4.md
-        - 3-Not gate: blog/verilog/verilog language/Basic/3-Not gate.md
-        - 4-And gate: blog/verilog/verilog language/Basic/4-And gate.md
-        - 5-Nor gate: blog/verilog/verilog language/Basic/5-Nor gate.md
-        - 6-Xnor gate: blog/verilog/verilog language/Basic/6-Xnor gate.md
-        - 7-Declaring wires: blog/verilog/verilog language/Basic/7-Declaring wires.md
-        - 8-7458 chip: blog/verilog/verilog language/Basic/8-7458 chip.md
-      - 向量:
-        - 1-Vectors: blog/verilog/verilog language/Vector/1-Vectors.md
-        - 2-Vectors in more detial: blog/verilog/verilog language/Vector/2-Vectors in more detial.md
-        - 3-Vector part select: blog/verilog/verilog language/Vector/3-Vector part select.md
-
-
 theme:
   name: material
   palette:
@@ -109,3 +65,49 @@ extra_javascript:
   - javascripts/config.js # latex支持
   - https://polyfill.io/v3/polyfill.min.js?features=es6 # latex支持
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # latex支持
+
+
+
+
+nav:
+  - 首页: index.md
+
+  - 尝试: 
+    - test1: blog/尝试/test1.md
+
+  - CTF:
+    - 首页: blog/CTF/index.md
+
+  - 计组:
+    - 首页: blog/计组/index.md
+  
+  - ADS:
+    - 首页: blog/ADS/index.md
+  
+  - 概统:
+    - 首页: blog/概统/index.md
+  
+  - 大物乙2:
+    - 首页: blog/大物乙2/index.md
+
+  - Verilog 学习: 
+    - 首页: blog/verilog/index.md
+
+    - 快速开始:
+      - 1-Step one: blog/verilog/快速开始/1-Step one.md
+      - 2-Zero: blog/verilog/快速开始/2-Zero.md
+
+    - 语法:
+      - 基础:
+        - 1-Simple wire: blog/verilog/verilog language/Basic/1-Simple wire.md
+        - 2-Wire4: blog/verilog/verilog language/Basic/2-Wire4.md
+        - 3-Not gate: blog/verilog/verilog language/Basic/3-Not gate.md
+        - 4-And gate: blog/verilog/verilog language/Basic/4-And gate.md
+        - 5-Nor gate: blog/verilog/verilog language/Basic/5-Nor gate.md
+        - 6-Xnor gate: blog/verilog/verilog language/Basic/6-Xnor gate.md
+        - 7-Declaring wires: blog/verilog/verilog language/Basic/7-Declaring wires.md
+        - 8-7458 chip: blog/verilog/verilog language/Basic/8-7458 chip.md
+      - 向量:
+        - 1-Vectors: blog/verilog/verilog language/Vector/1-Vectors.md
+        - 2-Vectors in more detial: blog/verilog/verilog language/Vector/2-Vectors in more detial.md
+        - 3-Vector part select: blog/verilog/verilog language/Vector/3-Vector part select.md
