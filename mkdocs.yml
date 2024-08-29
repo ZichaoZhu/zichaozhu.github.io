@@ -1,7 +1,6 @@
 site_name: 朱自超的笔记本
 site_author: 朱自超
 
-
 theme:
   name: material
   palette:
@@ -24,7 +23,7 @@ theme:
     - navigation.top   # 返回顶部的按钮 在上滑时出现
     - search.suggest   # 搜索输入一些字母时推荐补全整个单词
     - search.highlight   # 搜索出的文章关键词加入高亮
-    - navigation.expand   # 打开Tab时左侧目录全部展开
+    # - navigation.expand   # 打开Tab时左侧目录全部展开
     - search.share   #搜索分享按钮
 
 extra:
@@ -65,7 +64,6 @@ extra_javascript:
   - javascripts/config.js # latex支持
   - https://polyfill.io/v3/polyfill.min.js?features=es6 # latex支持
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # latex支持
-
 
 
 
