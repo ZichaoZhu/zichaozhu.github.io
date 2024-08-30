@@ -111,3 +111,5 @@ nav:
         - 1-Vectors: blog/verilog/verilog language/Vector/1-Vectors.md
         - 2-Vectors in more detial: blog/verilog/verilog language/Vector/2-Vectors in more detial.md
         - 3-Vector part select: blog/verilog/verilog language/Vector/3-Vector part select.md
+        - 4-Bitwise operators: blog/verilog/verilog language/Vector/4-Bitwise operators.md
+        

@@ -16,5 +16,6 @@ module top_module( input in, output out );
 endmodule
 ```
 
-* 在verilog中，"~"意味着**按照位来取反**
+* "~"意味着**按照位来取反**
+* "!"意味着**逻辑取反**
 
