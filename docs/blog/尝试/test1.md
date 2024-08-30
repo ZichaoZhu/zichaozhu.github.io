@@ -20,3 +20,5 @@ int main(){
 $$
 f(x)=\alpha \times b
 $$
+
+## 尝试一下
