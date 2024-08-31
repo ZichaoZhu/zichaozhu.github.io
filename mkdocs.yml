@@ -112,4 +112,11 @@ nav:
         - 2-Vectors in more detial: blog/verilog/verilog language/Vector/2-Vectors in more detial.md
         - 3-Vector part select: blog/verilog/verilog language/Vector/3-Vector part select.md
         - 4-Bitwise operators: blog/verilog/verilog language/Vector/4-Bitwise operators.md
+        - 5-Four input gates: blog/verilog/verilog language/Vector/5-Four input gates.md
+        - 6-Vector concatenation operator: blog/verilog/verilog language/Vector/6-Vector concatenation operator.md
+        - 7-Vector reversal 1: blog/verilog/verilog language/Vector/7-Vector reversal 1.md
+        - 8-Replication operator: blog/verilog/verilog language/Vector/8-Replication operator.md
+
+
+
         
