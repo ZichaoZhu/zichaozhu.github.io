@@ -116,7 +116,10 @@ nav:
         - 6-Vector concatenation operator: blog/verilog/verilog language/Vector/6-Vector concatenation operator.md
         - 7-Vector reversal 1: blog/verilog/verilog language/Vector/7-Vector reversal 1.md
         - 8-Replication operator: blog/verilog/verilog language/Vector/8-Replication operator.md
-
-
-
+        - 9-More replication: blog/verilog/verilog language/Vector/9-More replication.md
+      - 模块:
+        - 1-Modules: blog/verilog/verilog language/Modules/1-Modules.md
+        - 2-Connecting ports by position: blog/verilog/verilog language/Modules/2-Connecting ports by position.md
+        - 3-Connecting ports by name: blog/verilog/verilog language/Modules/3-Connecting ports by name.md
+        - 4-Three modules: blog/verilog/verilog language/Modules/4-Three modules.md
         
