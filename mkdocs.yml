@@ -122,4 +122,6 @@ nav:
         - 2-Connecting ports by position: blog/verilog/verilog language/Modules/2-Connecting ports by position.md
         - 3-Connecting ports by name: blog/verilog/verilog language/Modules/3-Connecting ports by name.md
         - 4-Three modules: blog/verilog/verilog language/Modules/4-Three modules.md
-        
+        - 5-Modules and vectors: blog/verilog/verilog language/Modules/5-Modules and vectors.md
+        - 6-Adder 1: blog/verilog/verilog language/Modules/6-Adder 1.md
+        - 7-Adder 2: blog/verilog/verilog language/Modules/7-Adder 2.md
