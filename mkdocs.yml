@@ -125,3 +125,8 @@ nav:
         - 5-Modules and vectors: blog/verilog/verilog language/Modules/5-Modules and vectors.md
         - 6-Adder 1: blog/verilog/verilog language/Modules/6-Adder 1.md
         - 7-Adder 2: blog/verilog/verilog language/Modules/7-Adder 2.md
+        - 8-Carry-select adder: blog/verilog/verilog language/Modules/8-Carry-select adder.md
+        - 9-Adder-subtractor: blog/verilog/verilog language/Modules/9-Adder-subtractor.md
+      - 过程:
+        - 1-Always blocks (combinational): blog/verilog/verilog language/Procedures/1-Always blocks (combinational).md
+
