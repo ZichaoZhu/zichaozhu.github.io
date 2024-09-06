@@ -129,4 +129,10 @@ nav:
         - 9-Adder-subtractor: blog/verilog/verilog language/Modules/9-Adder-subtractor.md
       - 过程:
         - 1-Always blocks (combinational): blog/verilog/verilog language/Procedures/1-Always blocks (combinational).md
-
+        - 2-Always blocks (clocked): blog/verilog/verilog language/Procedures/2-Always blocks (clocked).md
+        - 3-If statement: blog/verilog/verilog language/Procedures/3-If statement.md
+        - 4-If statement latches: blog/verilog/verilog language/Procedures/4-If statement latches.md
+        - 5-Case statement: blog/verilog/verilog language/Procedures/5-Case statement.md
+        - 6-Priority encoder: blog/verilog/verilog language/Procedures/6-Priority encoder.md
+        - 7-Priority with casez: blog/verilog/verilog language/Procedures/7-Priority with casez.md
+        - 8-Avoiding latches: blog/verilog/verilog language/Procedures/8-Avoiding latches.md
