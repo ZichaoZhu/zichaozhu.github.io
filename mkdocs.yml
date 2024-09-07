@@ -136,3 +136,14 @@ nav:
         - 6-Priority encoder: blog/verilog/verilog language/Procedures/6-Priority encoder.md
         - 7-Priority with casez: blog/verilog/verilog language/Procedures/7-Priority with casez.md
         - 8-Avoiding latches: blog/verilog/verilog language/Procedures/8-Avoiding latches.md
+      - 更多verilog特点:
+        - 1-Conditional ternary operator: blog/verilog/verilog language/More verilog features/1-Conditional ternary operator.md
+        - 2-Reduction operators: blog/verilog/verilog language/More verilog features/2-Reduction operators.md
+        - 3-Reduction Even wider gates: blog/verilog/verilog language/More verilog features/3-Reduction Even wider gates.md
+        - 4-Combinational for-loop Vector reversal 2: blog/verilog/verilog language/More verilog features/4-Combinational for-loop Vector reversal 2.md
+        - 5-Combinational for-loop 255-bit population cout: blog/verilog/verilog language/More verilog features/5-Combinational for-loop 255-bit population cout.md
+        - 6-Generate for-loop 100-bit binary adder2: blog/verilog/verilog language/More verilog features/6-Generate for-loop 100-bit binary adder2.md
+        - 7-Generate for-loop 100-digit BCD adder: blog/verilog/verilog language/More verilog features/7-Generate for-loop 100-digit BCD adder.md
+        
+
+
