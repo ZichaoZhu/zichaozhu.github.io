@@ -81,6 +81,8 @@ nav:
   
   - ADS:
     - 首页: blog/ADS/index.md
+    - Lecture 1: 
+      - AVL Trees: blog/ADS/Lecture 1/AVL Trees.md
   
   - 概统:
     - 首页: blog/概统/index.md
@@ -89,6 +91,10 @@ nav:
 
   - 大物乙2:
     - 首页: blog/大物乙2/index.md
+    - 大物实验:
+      - 简介: blog/大物乙2/大物实验/index.md
+      - 绪论: blog/大物乙2/大物实验/绪论.md
+
 
   - Verilog 学习: 
     - 首页: blog/verilog/index.md
