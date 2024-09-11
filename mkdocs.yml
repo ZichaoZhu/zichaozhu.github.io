@@ -1,4 +1,4 @@
-site_name: 朱自超的笔记本
+site_name: zzc的笔记本
 site_author: 朱自超
 
 theme:
@@ -83,6 +83,8 @@ nav:
     - 首页: blog/ADS/index.md
     - Lecture 1: 
       - AVL Trees: blog/ADS/Lecture 1/AVL Trees.md
+      - Splay Trees: blog/ADS/Lecture 1/Splay Trees.md
+      
   
   - 概统:
     - 首页: blog/概统/index.md
@@ -94,6 +96,12 @@ nav:
     - 大物实验:
       - 简介: blog/大物乙2/大物实验/index.md
       - 绪论: blog/大物乙2/大物实验/绪论.md
+
+  - 马原:
+    - 首页: blog/马原/index.md
+
+  - 大学文化与传承:
+    - 首页: blog/大学文化与传承/index.md
 
 
   - Verilog 学习: 
