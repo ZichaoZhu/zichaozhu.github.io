@@ -81,9 +81,12 @@ nav:
   
   - ADS:
     - 首页: blog/ADS/index.md
-    - Lecture 1: 
-      - AVL Trees: blog/ADS/Lecture 1/AVL Trees.md
-      - Splay Trees: blog/ADS/Lecture 1/Splay Trees.md
+    - AVL Splay Amortize: 
+      - AVL Trees: blog/ADS/AVL Splay Amortize/AVL Trees.md
+      - Splay Trees: blog/ADS/AVL Splay Amortize/Splay Trees.md
+      - Amortized Analysis: blog/ADS/AVL Splay Amortize/Amortized Analysis.md
+    - Red-Black and B+:
+      - Red-Black Trees Definition: blog/ADS/Red-Black and B+/Red-Black Trees Definition.md
 
   
   - 概统:
