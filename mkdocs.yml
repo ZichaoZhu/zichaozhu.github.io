@@ -78,6 +78,8 @@ nav:
 
   - 计组:
     - 首页: blog/计组/index.md
+    - 第一节: blog/计组/first.md
+    
   
   - ADS:
     - 首页: blog/ADS/index.md
@@ -87,6 +89,7 @@ nav:
       - Amortized Analysis: blog/ADS/AVL Splay Amortize/Amortized Analysis.md
     - Red-Black and B+:
       - Red-Black Trees Definition: blog/ADS/Red-Black and B+/Red-Black Trees Definition.md
+      - Red-Black Trees Operation: blog/ADS/Red-Black and B+/Red-Black Trees Operation.md
 
   
   - 概统:
