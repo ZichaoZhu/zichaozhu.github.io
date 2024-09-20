@@ -4,14 +4,14 @@
 
 ## Insertion
 
- <img src="./assets/image-20240917211658164.png" alt="image-20240917211658164" style="zoom:80%;display:block;margin:0 auto;" />
+ <img src="../assets/image-20240917211658164.png" alt="image-20240917211658164" style="zoom:80%;display:block;margin:0 auto;" />
 
 ## Deletion
 
-<img src="./assets/image-20240917212918333.png" alt="image-20240917212918333" style="zoom:80%;display:block;margin:0 auto;" />
+<img src="../assets/image-20240917212918333.png" alt="image-20240917212918333" style="zoom:80%;display:block;margin:0 auto;" />
 
 ## Number of rotations
 
-<img src="./assets/image-20240917214636145.png" alt="image-20240917214636145" style="zoom:80%;display:block;margin:0 auto;" />
+<img src="../assets/image-20240917214636145.png" alt="image-20240917214636145" style="zoom:80%;display:block;margin:0 auto;" />
 
 * When using **insertion**, AVL trees are recommended.
