@@ -15,3 +15,13 @@
 <img src="../assets/image-20240917214636145.png" alt="image-20240917214636145" style="zoom:80%;display:block;margin:0 auto;" />
 
 * When using **insertion**, AVL trees are recommended.
+
+## Problem
+
+### 1
+
+In the worst case the DELETE operation in a RED-BLACK tree of *n* nodes requires Ω(log*n*) rotations.
+
+F.
+
+> rotation最多3次就可以了

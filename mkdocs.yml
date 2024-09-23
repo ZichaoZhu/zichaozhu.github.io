@@ -91,6 +91,11 @@ nav:
       - Red-Black Trees Definition: blog/ADS/Red-Black and B+/Red-Black Trees Definition.md
       - Red-Black Trees Operation: blog/ADS/Red-Black and B+/Red-Black Trees Operation.md
       - B+ Trees: blog/ADS/Red-Black and B+/B+ Trees.md
+    - Inverted File Index:
+      - Simple solutions: blog/ADS/Inverted File Index/Simple solutions.md
+      - Modules: blog/ADS/Inverted File Index/Modules.md
+      - Topics: blog/ADS/Inverted File Index/Topics.md
+      - Measures for a search engine: blog/ADS/Inverted File Index/Measures for a search engine.md
 
       
 
