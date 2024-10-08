@@ -79,6 +79,7 @@ nav:
   - 计组:
     - 首页: blog/计组/index.md
     - 第一节: blog/计组/first.md
+    - 第二节: blog/计组/second.md
     
   
   - ADS:
@@ -96,6 +97,10 @@ nav:
       - Modules: blog/ADS/Inverted File Index/Modules.md
       - Topics: blog/ADS/Inverted File Index/Topics.md
       - Measures for a search engine: blog/ADS/Inverted File Index/Measures for a search engine.md
+    - Leftist Heap: 
+      - Definition: blog/ADS/Leftist Heap/Definition.md
+      - Operation: blog/ADS/Leftist Heap/Operation.md
+      - Skew Heap: blog/ADS/Leftist Heap/Skew Heap.md
 
       
 

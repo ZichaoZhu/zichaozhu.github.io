@@ -2,9 +2,9 @@
 
 ## 课程介绍
 
-<img src="./assets/image-20240910185554114.png" alt="image-20240910185554114" style="zoom:80%;display;block;margin:0 auto;" />
+<img src="./assets/image-20240910185554114.png" alt="image-20240910185554114" style="zoom:80%;display:block;margin:0 auto;" />
 
-<img src="./assets/image-20240910185836300.png" alt="image-20240910185836300" style="zoom:80%;diaplay:block;margin:0 auto;" />
+<img src="./assets/image-20240910185836300.png" alt="image-20240910185836300" style="zoom:80%;display:block;margin:0 auto;" />
 
 ## 导入
 

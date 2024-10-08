@@ -81,3 +81,18 @@ $$
 $$
 CPU\;time=Instruction\;count \times CPI \times Clock\;cycle\;time=\frac {Instruction\;count \times CPI}{Clock\;rate}
 $$
+
+
+## Amdahl's Law
+
+<img src="../assets/image-20240925101004062.png" alt="image-20240925101004062" style="zoom:80%;display:block;margin:0 auto;" />
+
+## Eight Great Ideas
+
+<img src=".。/assets/image-20240925101142920.png" alt="image-20240925101142920" style="zoom:80%;display:block;margin:0 auto;" />
+
+## Homework
+
+<img src="./assets/image-20240925102921070.png" alt="image-20240925102921070" style="zoom:80%;" />
+
+转成pdf上传学在浙大
