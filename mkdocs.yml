@@ -127,6 +127,14 @@ nav:
     - 论文写作指导: blog/社会心理学/论文写作指导.md
     - 第一节课: blog/社会心理学/第一节课.md
 
+  # 论文阅读
+  - 论文阅读:
+    - DeepMimic: blog/论文阅读/DeepMimic.md
+    - DreamWaQ: blog/论文阅读/DreamWaQ.md
+    - MoE-Loco: blog/论文阅读/MoE-Loco.md
+    - PIE: blog/论文阅读/PIE.md
+    - RMA: blog/论文阅读/RMA.md
+
 
   - Verilog 学习: 
     - 首页: blog/verilog/index.md
