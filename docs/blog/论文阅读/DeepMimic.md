@@ -25,18 +25,18 @@
 
 ## 论文效果
 
-<img src="./assets/image-20251231205238511.png" alt="image-20251231205238511" style="zoom:25%;" />
+<img src="../assets/image-20251231205238511.png" alt="image-20251231205238511" style="zoom:25%;display:block;margin:0 auto;" />
 
 * 通过使用论文中提出的方法，模仿捕获到的参考动作片段，学习高动态技能
 * 由物理模拟角色执行
 * 左边：人形角色模仿车轮
 * 右边：模拟[Atlas机器人](https://zhuanlan.zhihu.com/p/4248002635)执行旋踢动作
 
-<img src="./assets/image-20251231210006240.png" alt="image-20251231210006240" style="zoom:20%;" />
+<img src="../assets/image-20251231210006240.png" alt="image-20251231210006240" style="zoom:20%;display:block;margin:0 auto;" />
 
 * 论文中提出的框架可以为多种角色提供策略训练
 
-<img src="./assets/image-20251231210136161.png" alt="image-20251231210136161" style="zoom:33%;" />
+<img src="../assets/image-20251231210136161.png" alt="image-20251231210136161" style="zoom:33%;display:block;margin:0 auto;" />
 
 * 表演各种技能的模拟人物
 
@@ -79,7 +79,7 @@
 
 #### Network
 
-![image-20260102101152246](./assets/image-20260102101152246.png)
+![image-20260102101152246](../assets/image-20260102101152246.png)
 
 * 输入：神经网络接收角色的**状态** ($s$) 和**目标** ($g$)，并将其映射为**动作的概率分布**。$s$ 和 $g$ 前面说过。
 * **高斯分布输出：** 动作输出被建模为高斯分布（正态分布）：$\pi(a|s, g)$。
